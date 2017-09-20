@@ -1,3 +1,5 @@
+**Be aware that these bug reports are publicly viewable, so please do not include any sensitive information in your bug report - this includes passwords, access tokens, sensitive data, etc**
+
 Please search the existing issues to check that your issue hasn't already been reported.
 If it has, please comment on the existing issue.
 
