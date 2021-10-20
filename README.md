@@ -11,8 +11,8 @@ Repositories: The platform is all open source - see all the repositories here: h
   * [Overview](https://github.com/ministryofjustice/analytics-platform-ops/tree/main/docs/architecture)
   * [Architecture diagrams](https://github.com/ministryofjustice/analytics-platform-ops/tree/main/docs/architecture#Diagrams)
   * [Architecture Design Records](https://drive.google.com/drive/u/0/folders/1eloHciWhczk1ITTtyqKv5dZM_6P1Pnlf) (private currently) - Discussion of technical choices
-* Wiki - https://github.com/ministryofjustice/analytics-platform/wiki 
-  * Runbook / operation guides for all the main parts of the system
+* Team docs https://ministryofjustice.github.io/ap-tech-docs (private)
+  * Runbook / operation guides for all the main parts of the system (includes content migrated from the old wiki)
 * README files in the AP GitHub repos - about the repository. In particular:
   * [-ops](https://github.com/ministryofjustice/analytics-platform-ops) which documents the initial deployment of the platform
   * [-iam](https://github.com/ministryofjustice/analytical-platform-iam) which describes the IAM permissions and 'landing' AWS account
